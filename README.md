@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/MDjStrSb">
+<img src="https://i.ibb.co.com/TBn2762Z/White-and-Brown-Simple-Linked-In-Background-Photo.png">
 <h3 align="center">Professional Web Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazisadikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="kazisadikuzzaman" /> </p>
