@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/TBn2762Z/White-and-Brown-Simple-Linked-In-Background-Photo.png">
+![image alt](https://github.com/KaziSadikuzzaman/KaziSadikuzzaman/blob/bdb83c7e4c2dea9b12480ecf239415de3f49c0b8/White%20and%20Brown%20Simple%20LinkedIn%20Background%20Photo.png)
 <h3 align="center">Professional Web Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazisadikuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="kazisadikuzzaman" /> </p>
